@@ -63,3 +63,6 @@ Log in to start chatting!
 ## Contributing
 Contributing
 Contributions are welcome! If you find any issues or want to enhance the app, feel free to submit a pull request.
+
+## Authors
+- [@Gursewak](https://github.com/Gursewak121)
