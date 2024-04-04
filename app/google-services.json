@@ -1,0 +1,29 @@
+ {
+  "project_info": {
+    "project_number": "907132576005",
+    "project_id": "chatcraze-7014b",
+    "storage_bucket": "chatcraze-7014b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:907132576005:android:ca9afffbb01de4f5fa976c",
+        "android_client_info": {
+          "package_name": "com.gursewak.chatcraze"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBsFjtheOTdxG7yj9fGdExlUAXYcNbHzj8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
